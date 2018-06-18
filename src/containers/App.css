@@ -1,0 +1,16 @@
+@font-face{
+    font-family: 'Burbank';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Burbank'), url('Burbank.woff') format('woff');
+}
+
+h1{
+    font-family:'Burbank';
+    font-weight:200;
+    color:#0ccac4;
+}
+
+.weekChallenge{
+    max-height:500px;
+}
